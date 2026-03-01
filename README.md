@@ -1,2 +1,2 @@
 # Telegram-Bot
-Telegram Automation by Telehon Documentation
+Telegram Automation by Telethon Documentation
